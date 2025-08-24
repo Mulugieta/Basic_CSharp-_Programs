@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My projects\\Basic_C#_Programs\\Console Application Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB97EED-436C-48AC-AAC8-36FAED92202F}|Console Application Assignment\\Console Application Assignment.csproj|d:\\my projects\\basic_c#_programs\\console application assignment\\console application assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB97EED-436C-48AC-AAC8-36FAED92202F}|Console Application Assignment\\Console Application Assignment.csproj|solutionrelative:console application assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My projects\\Basic_C#_Programs\\Console Application Assignment\\Console Application Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Console Application Assignment\\Program.cs",
+              "ToolTip": "D:\\My projects\\Basic_C#_Programs\\Console Application Assignment\\Console Application Assignment\\Program.cs",
+              "RelativeToolTip": "Console Application Assignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T23:22:17.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
