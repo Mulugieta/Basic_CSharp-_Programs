@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CD5C06E8-527A-4770-9012-A06E131B4CEF}</ProjectGuid>
+    <ProjectGuid>{7E4D0A69-5E68-4DF1-8EEB-829B22BF65F1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Method_Class_Assignment</RootNamespace>
-    <AssemblyName>Method Class Assignment</AssemblyName>
+    <RootNamespace>Class_Method_Assignment</RootNamespace>
+    <AssemblyName>Class Method Assignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MathOperations.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
