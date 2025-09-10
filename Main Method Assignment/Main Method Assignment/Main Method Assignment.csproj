@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B64AC7DA-3297-4A34-9EA9-687EDD3E1D4E}</ProjectGuid>
+    <ProjectGuid>{75E2EB3C-03A5-4CA4-82A8-2A23026053BB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Calling_Methods_Assignment</RootNamespace>
-    <AssemblyName>Calling Methods Assignment</AssemblyName>
+    <RootNamespace>Main_Method_Assignment</RootNamespace>
+    <AssemblyName>Main Method Assignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MathOperations.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
