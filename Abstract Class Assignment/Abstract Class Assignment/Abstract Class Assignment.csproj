@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6F08F4A0-7B82-4399-B91A-001F263B54C6}</ProjectGuid>
+    <ProjectGuid>{8939C0BB-4180-4797-B0EC-0044B9439F85}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Methods_and_Objects_Assignment</RootNamespace>
-    <AssemblyName>Methods and Objects Assignment</AssemblyName>
+    <RootNamespace>Abstract_Class_Assignment</RootNamespace>
+    <AssemblyName>Abstract Class Assignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employee.cs" />
-    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
