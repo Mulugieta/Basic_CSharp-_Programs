@@ -638,7 +638,7 @@ Clone this repository
 
 This project demonstrates building a full ASP.NET MVC web application using Entity Framework for database interaction. The assignment covers multiple parts: setting up the project, scaffolding CRUD functionality, refining models/controllers/views, and adding business logic for insurance quotes.
 
-ASP.NET MVC Entity Framework Assignment Part 1
+Part 1
 
 Complete these actions:
 
@@ -699,7 +699,9 @@ Details – Allows the user to view object details.
 
 Delete – Allows the user to delete an object.
 
-ASP.NET MVC Entity Framework Assignment Part 2
+
+
+ Part 2
 
 Complete these actions:
 
@@ -760,7 +762,10 @@ Verify in database that record is removed.
 
 Index View is now empty again.
 
-ASP.NET MVC Entity Framework Assignment Part 3
+
+
+
+ Part 3
 
 Concepts explained:
 
@@ -788,7 +793,11 @@ InsureeMetadata class in Models.
 
 CSS file for styling.
 
-ASP.NET MVC Entity Framework Assignment Part 4
+ 
+ 
+ 
+ 
+ Part 4
 
 Add Quote Calculation Logic
 
@@ -837,6 +846,11 @@ Last Name
 Email Address
 
 Quote
+
+
+
+
+
 🔹 Constructor Assignment
 
 Demonstrates:
